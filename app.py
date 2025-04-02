@@ -7,7 +7,7 @@ st.title("🤖 Gemini Chatbot")
 st.write("Ask me anything, and I'll answer using Google's Gemini API!")
 
 # Set your API key (Do NOT hardcode in production)
-API_KEY = "YOUR_GEMINI_API_KEY"  # Replace this with your actual key
+API_KEY = "AIzaSyDUsNMBuDq0C7zAmJjSQUEU5-hLNtcd4v8"  # Replace this with your actual key
 
 # Define function to communicate with Gemini API
 def chat_with_gemini(prompt):
